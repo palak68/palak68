@@ -1,5 +1,5 @@
 
-# 👩‍💻 Hey there, I'm Palak Sharma!
+# 👩‍💻 Hi, I'm Palak Sharma!
 
 🎓 *3rd Year Computer Science Student* | 💻 *Full Stack Developer* | 🧠 *DSA Learner*
 
