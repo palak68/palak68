@@ -54,7 +54,7 @@
 - Deloitte Job Simulation  
 - Intel Global Impact Festival  
 - Code Manthan College Participation  
-
+- Third prize winner - SIH internal hackathon 
 ---
 
 ### 📫 Connect With Me
