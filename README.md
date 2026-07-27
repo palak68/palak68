@@ -9,7 +9,7 @@
 - 👩‍💻 Passionate about building real-world web applications  
 - 🚀 Currently improving my *Data Structures & Algorithms
 - 💡 I enjoy learning new technologies and exploring better ways to solve problems  
-- 🧱 Built full-stack project finvista and wanderlust 
+- 🧱 Built full-stack project Ai interview platform , meetify etc.
 - 🎯 Goal: Grow as a developer and build impactful, user-focused products  
 
 ---
